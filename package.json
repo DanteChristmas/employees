@@ -1,0 +1,19 @@
+{
+  "name": "employees",
+  "version": "1.0.0",
+  "description": "basic mean stack app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjs5286/employees.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjs5286/employees/issues"
+  },
+  "homepage": "https://github.com/jjs5286/employees#readme"
+}
